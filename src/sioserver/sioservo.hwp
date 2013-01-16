@@ -1,0 +1,154 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"2.7" 
+[PROJECT_DETAILS]
+"sioservo" "C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo" "C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo\sioservo.hwp" "H8S,H8/300" "Hitachi H8S,H8/300 Standard" "Empty Application" "300H" "Other" 
+[INFORMATION]
+"プロジェクト情報がありません" 
+[TOOL_CHAIN]
+"Hitachi H8S,H8/300 Standard Toolchain" "6.1.2.0" 
+[CONFIGURATIONS]
+"Debug" "C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo\debug" 
+[BUILD_PHASES]
+"Hitachi H8S,H8/300 C/C++ Library Generator" 1 
+"Hitachi H8S,H8/300 C/C++ Compiler" 1 
+"Hitachi H8S,H8/300 Assembler" 1 
+"Hitachi OptLinker" 1 
+[DEFINITION_PARSERS]
+[TOOL_ENVIRONMENT]
+[EXTENSIONS]
+"CPU information file" "CPU" 
+"Absolute file" "ABS" 
+"Stack information file" "SNI" 
+"Profile file" "PRO" 
+"C++ list file" "LPP" 
+"Linkage map file" "MAP" 
+"C++ header file" "HPP" 
+"C++ source file" "CPP" 
+"C header file" "H" 
+"C source file" "C" 
+"Hex file" "HEX" 
+"S-Record file" "MOT" 
+"Object file" "OBJ" 
+"Optimize map file" "bls" 
+"Relocatable file" "REL" 
+"Assembly source file" "MAR" 
+"Assembly source file" "SRC" 
+"Assembly source file" "ASM" 
+"Expanded assembly source file" "EXP" 
+"Preprocessed C source file" "P" 
+"C list file" "LST" 
+"Linkage symbol file" "FSY" 
+"Binary file" "BIN" 
+"Library file" "LIB" 
+"Assembly include file" "INC" 
+"Library information file" "LBP" 
+"Assembly list file" "LIS" 
+"Preprocessed C++ source file" "PP" 
+[FILE_GROUPS]
+"CPU information file" "BIN" "NONE" "" 
+"Absolute file" "BIN" "NONE" "" 
+"Stack information file" "BIN" "NONE" "" 
+"Profile file" "BIN" "NONE" "" 
+"C++ list file" "TEXT" "EDITOR" "" 
+"Linkage map file" "TEXT" "EDITOR" "" 
+"C++ header file" "TEXT" "EDITOR" "" 
+"C++ source file" "TEXT" "EDITOR" "" 
+"C header file" "TEXT" "EDITOR" "" 
+"C source file" "TEXT" "EDITOR" "" 
+"Hex file" "TEXT" "EDITOR" "" 
+"S-Record file" "TEXT" "EDITOR" "" 
+"Object file" "BIN" "NONE" "" 
+"Optimize map file" "BIN" "NONE" "" 
+"Relocatable file" "BIN" "NONE" "" 
+"Assembly source file" "TEXT" "EDITOR" "" 
+"Expanded assembly source file" "TEXT" "EDITOR" "" 
+"Preprocessed C source file" "TEXT" "EDITOR" "" 
+"C list file" "TEXT" "EDITOR" "" 
+"Linkage symbol file" "TEXT" "EDITOR" "" 
+"Binary file" "BIN" "NONE" "" 
+"Library file" "BIN" "NONE" "" 
+"Assembly include file" "TEXT" "EDITOR" "" 
+"Library information file" "TEXT" "EDITOR" "" 
+"Assembly list file" "TEXT" "EDITOR" "" 
+"Preprocessed C++ source file" "TEXT" "EDITOR" "" 
+[ASSOCIATED_APPLICATIONS]
+[TOOLCHAIN_PHASE]
+"Hitachi H8S,H8/300 C/C++ Library Generator" 
+"Hitachi H8S,H8/300 C/C++ Compiler" 
+"Hitachi H8S,H8/300 Assembler" 
+"Hitachi OptLinker" 
+[UTILITY_PHASE]
+[CUSTOM_PHASES]
+[CUSTOM_PHASE_INPUT_GROUP]
+[BUILD_ORDER]
+"Hitachi H8S,H8/300 C/C++ Library Generator" 1 
+"Hitachi H8S,H8/300 C/C++ Compiler" 1 
+"Hitachi H8S,H8/300 Assembler" 1 
+"Hitachi OptLinker" 1 
+[BUILD_PHASE_DETAILS]
+"Hitachi H8S,H8/300 C/C++ Library Generator" "" 0 
+"Hitachi H8S,H8/300 C/C++ Compiler" "C source file|C++ source file" 1 
+"Hitachi H8S,H8/300 Assembler" "Assembly source file|Linkage symbol file" 1 
+"Hitachi OptLinker" "Object file|Library file|Relocatable file" 0 
+[BUILD_FILE_ORDER_C++ source file]
+"Hitachi H8S,H8/300 C/C++ Compiler" 1 
+[BUILD_FILE_ORDER_C source file]
+"Hitachi H8S,H8/300 C/C++ Compiler" 1 
+[BUILD_FILE_ORDER_Assembly source file]
+"Hitachi H8S,H8/300 Assembler" 1 
+[BUILD_FILE_ORDER_Linkage symbol file]
+"Hitachi H8S,H8/300 Assembler" 1 
+[SCRAP]
+"Project Generator Setup File" "$(PROJDIR)\3048.pgs" 
+[MAPPINGS]
+"Library file" "Hitachi OptLinker" "Hitachi H8S,H8/300 C/C++ Library Generator" 
+"Assembly source file" "Hitachi H8S,H8/300 Assembler" "Hitachi H8S,H8/300 C/C++ Compiler" 
+"Object file" "Hitachi OptLinker" "Hitachi H8S,H8/300 C/C++ Compiler" 
+"Object file" "Hitachi OptLinker" "Hitachi H8S,H8/300 Assembler" 
+[PROJECT_FILES]
+"C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo\sioservo.c" "User" "C source file" 2 
+"C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo\sioservostart.src" "User" "Assembly source file" 2 
+"C:\WorkSpace\common\car_printf2.c" "User" "C source file" 0 
+[FOLDER]
+"C source file" "C source file" 
+"Assembly source file" "Assembly source file" 
+[GENERAL_DATA_PROJECT]
+"USE_CUSTOM_LINKAGE_ORDER" "0" 
+[ON_DEMAND_COMPONENTS_LOADED]
+[SYNC_SESSION_NAMES]
+[SESSIONS]
+"DefaultSession" "C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo\defaultsession.hsf" 0 
+[GENERAL_DATA_SESSION_DefaultSession]
+[OPTIONS_Debug_Hitachi H8S,H8/300 C/C++ Library Generator]
+"Single Shot" "0563849b0d067c10" 1 
+[OPTIONS_Debug_Hitachi H8S,H8/300 C/C++ Compiler]
+"C:\WorkSpace\common\car_printf2.c" "08db38d3c7de7c10" 2 
+"C++ source file" "0563849b0d067c10" 2 
+"C source file" "0563849b0d067c10" 2 
+"C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo\sioservo.c" "01c07958b8597c10" 2 
+[OPTIONS_Debug_Hitachi H8S,H8/300 Assembler]
+"C:\Workspace｣ｨｲ簗ﾔｹ､ｳﾌ｣ｩ\Workspace\kit07\sioservo\sioservostart.src" "01c07958b8597c10" 3 
+"Assembly source file" "0e4fdd930d067c10" 3 
+"Linkage symbol file" "0e4fdd930d067c10" 3 
+[OPTIONS_Debug_Hitachi OptLinker]
+"Single Shot" "08e268d3c7de7c10" 4 
+[OPTIONS_Debug]
+"" 0 
+"[V|VERSION|6] [S|MODE|BUILD/CHANGED] [S|EXISTOUTPUTPATH|^"$(CONFIGDIR)\$(PROJECTNAME).lib^"] [B|RUNTIME|1] [B|NEW|1] [B|CTYPE|1] [B|MATH|1] [B|MATHF|1] [B|STDARG|1] [B|STDIO|1] [B|STDLIB|1] [B|STRING|1] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(PROJECTNAME).lib^"] [B|NOCPUEXPAND|1] [I|ALIGN|] [B|SPEED|1] [S|SPEED|REGISTER|SWITCH|SHIFT|STRUCT|EXPRESSION|LOOP|INLINE=110] [S|INLINE|NONE] [B|VOLATILE|1] [S|OPT_RANGE|ALL] [I|MAX_UNROLL|1] [S|LIBRARY|FUNCTION] [B|ECPP|1] [S|CPU|300HA:20] [I|SBR|0] [S|BIT_ORDER|LEFT]
+" 1 
+"[V|VERSION|6] [S|INCLUDE|^"C:\WorkSpace\common^"] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).obj^"] [B|DEBUG|1] [B|NOCPUEXPAND|1] [I|ALIGN|] [B|LIST|0] [B|SPEED|1] [S|SPEED|REGISTER|SWITCH|SHIFT|STRUCT|EXPRESSION|LOOP|INLINE=110] [S|INLINE|NONE] [B|VOLATILE|1] [S|OPT_RANGE|ALL] [I|MAX_UNROLL|1] [S|LIBRARY|FUNCTION] [S|MISRA_INSPECTION|ALL] [S|CPU|300HA:20] [I|SBR|0] [S|BIT_ORDER|LEFT] [B|CHGINCPATH|1]
+" 2 
+"[V|VERSION|1] [B|DEBUG|1] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).obj^"] [B|LIST|0] [B|CHGINCPATH|1] [B|ERRORPATH|1] [S|CPU|300HA:20]" 3 
+"[V|VERSION|6] [S|CPULNK|300HA:20 [I|SBR|0] [S|PRELINK|SKIP] [S|FORM|STYPE] [B|DEBUG|1] [S|ROM|(D,R)] [B|LIST|1] [S|LIST|^"$(CONFIGDIR)\$(PROJECTNAME).map^"] [S|SHOW|SYMBOL] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).mot^"] [I|SPACE|^"FF^"] [S|OPTIMIZEITEMS|SPEED] [I|CACHESIZE|000000008] [I|CACHELINE|000000020] [S|START|V(00)|P,C,D(0100)|B,R(0FEF10)] [I|CPUINFORMATIONCHECK|1] [S|;CHECKDEVICE|ROM,0x00000000,0x0001FFFF|RAM,0x000FEF10,0x000FFB0F]
+" 4 
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]
+"MEMORY_MAPPING_OPTIONS" "" 
+[EXT_DEBUGGER_INFO]
+0 "" "" "" "" 
+[EXCLUDED_FILES_Debug]
+[LINKAGE_ORDER_Debug]
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]
+[GENERAL_DATA_CONFIGURATION_Debug]
+[END]
